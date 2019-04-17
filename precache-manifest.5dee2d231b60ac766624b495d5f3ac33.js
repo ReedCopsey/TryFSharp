@@ -66,37 +66,37 @@ self.__precacheManifest = [
     "url": "af7ae505a9eed503f8b8e6982036873e.woff2"
   },
   {
+    "url": "8c574ce84d5db50582b71f028e3c08b4.woff2"
+  },
+  {
     "url": "bfec314a4943882a8e81f066004b74f3.woff2"
   },
   {
     "url": "e0fea666fb73e683da8982050f509f81.woff2"
   },
   {
-    "url": "8c574ce84d5db50582b71f028e3c08b4.woff2"
-  },
-  {
     "url": "5c4876bef50a7df9d8ac48af75ecf11c.woff2"
-  },
-  {
-    "url": "7c8fa37007189c6e9a50125e5ca64cff.eot"
   },
   {
     "url": "fee66e712a8a08eef5805a46892932ad.woff"
   },
   {
-    "url": "5c6aa3e267f5554fd7cf15557b7e44aa.eot"
-  },
-  {
     "url": "4cfc570109e603356ee7586978c46852.eot"
   },
   {
-    "url": "06b79b8f8677e6333512a61ec7caa63f.eot"
+    "url": "5c6aa3e267f5554fd7cf15557b7e44aa.eot"
+  },
+  {
+    "url": "7c8fa37007189c6e9a50125e5ca64cff.eot"
+  },
+  {
+    "url": "aba400cf60d151ff7b3da7c862cbde2d.woff"
   },
   {
     "url": "af2692f72b79d5935fe511236e05dbc8.woff"
   },
   {
-    "url": "aba400cf60d151ff7b3da7c862cbde2d.woff"
+    "url": "06b79b8f8677e6333512a61ec7caa63f.eot"
   },
   {
     "url": "9e710fd112b1d07cf5277175c2dec679.woff"
@@ -105,16 +105,16 @@ self.__precacheManifest = [
     "url": "8027cf95961ca238debdd2352284e532.woff"
   },
   {
-    "url": "674f50d287a8c48dc19ba404d20fe713.eot"
-  },
-  {
     "url": "b06871f281fee6b241d60582ae9369b9.ttf"
   },
   {
-    "url": "137778879005023b427be30df1f57d83.ttf"
+    "url": "674f50d287a8c48dc19ba404d20fe713.eot"
   },
   {
     "url": "1a77fe6d9f399212fcfcfde790ce66b2.ttf"
+  },
+  {
+    "url": "137778879005023b427be30df1f57d83.ttf"
   },
   {
     "url": "e613bf534959b8c52533e77ea0cee44e.ttf"
@@ -138,16 +138,28 @@ self.__precacheManifest = [
     "url": "img/fsharp.ico"
   },
   {
-    "revision": "15be436d3ade92e837903dca365ad3b0",
-    "url": "js/repl/fable-library/AsyncBuilder.js"
-  },
-  {
     "revision": "83be1918d2f03ec9a033726ece4565a5",
     "url": "js/repl/fable-library/Async.js"
   },
   {
+    "revision": "15be436d3ade92e837903dca365ad3b0",
+    "url": "js/repl/fable-library/AsyncBuilder.js"
+  },
+  {
+    "revision": "6720ff04ec96f46f32458f81443883ed",
+    "url": "js/repl/fable-library/BitConverter.js"
+  },
+  {
     "revision": "8e8a31e3ee8bd268a7acaa478df20c25",
     "url": "js/repl/fable-library/Char.js"
+  },
+  {
+    "revision": "1dbad696d171aa373387aac1d4a795a2",
+    "url": "js/repl/fable-library/DictTypes.js"
+  },
+  {
+    "revision": "a674460ee1bca936adbc2ea984a962cf",
+    "url": "js/repl/fable-library/DateOffset.js"
   },
   {
     "revision": "486b8c1d45dde7237da8edc4354f7fbe",
@@ -158,24 +170,8 @@ self.__precacheManifest = [
     "url": "js/repl/fable-library/Double.js"
   },
   {
-    "revision": "6720ff04ec96f46f32458f81443883ed",
-    "url": "js/repl/fable-library/BitConverter.js"
-  },
-  {
-    "revision": "a674460ee1bca936adbc2ea984a962cf",
-    "url": "js/repl/fable-library/DateOffset.js"
-  },
-  {
     "revision": "083c79d7d881bfdc830573f888161772",
     "url": "js/repl/fable-library/Encoding.js"
-  },
-  {
-    "revision": "1dbad696d171aa373387aac1d4a795a2",
-    "url": "js/repl/fable-library/DictTypes.js"
-  },
-  {
-    "revision": "d41d8cd98f00b204e9800998ecf8427e",
-    "url": "js/repl/fable-library/Global.js"
   },
   {
     "revision": "2a9b4cab7ea632fe4d66f83c8234a380",
@@ -190,12 +186,16 @@ self.__precacheManifest = [
     "url": "js/repl/fable-library/FSharp.Core.js"
   },
   {
-    "revision": "01676cb11d800d35a5db77fa2ba3bc1d",
-    "url": "js/repl/fable-library/Int32.js"
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "js/repl/fable-library/Global.js"
   },
   {
     "revision": "17c2da07cca47707f1719102489e6d97",
     "url": "js/repl/fable-library/MailboxProcessor.js"
+  },
+  {
+    "revision": "01676cb11d800d35a5db77fa2ba3bc1d",
+    "url": "js/repl/fable-library/Int32.js"
   },
   {
     "revision": "3d234c7636b58ab1a2e888e5ebbf0a3b",
@@ -206,36 +206,36 @@ self.__precacheManifest = [
     "url": "js/repl/fable-library/Option.js"
   },
   {
-    "revision": "a2d132fd9e8afd4a8538d051d6384db3",
-    "url": "js/repl/fable-library/RegExp.js"
-  },
-  {
     "revision": "fa18cb926a56982a9edc6ca3b71f918d",
     "url": "js/repl/fable-library/Reflection.js"
   },
   {
-    "revision": "d8170ac0dabaf2ba8e660f3ddd0e8686",
-    "url": "js/repl/fable-library/System.Text.js"
+    "revision": "a2d132fd9e8afd4a8538d051d6384db3",
+    "url": "js/repl/fable-library/RegExp.js"
   },
   {
     "revision": "fa9d359557a7019cd2a9805eb9185b0f",
     "url": "js/repl/fable-library/splitter.config.js"
   },
   {
-    "revision": "9740c56876381443252a1a7b7aea853a",
-    "url": "js/repl/fable-library/TimeSpan.js"
+    "revision": "d8170ac0dabaf2ba8e660f3ddd0e8686",
+    "url": "js/repl/fable-library/System.Text.js"
   },
   {
     "revision": "ef1ca401de807ee2c42b5cc3d97234c5",
     "url": "js/repl/fable-library/Timer.js"
   },
   {
-    "revision": "4209452ecd21aabbcf928132949d3f0f",
-    "url": "js/repl/fable-library/Uri.js"
+    "revision": "9740c56876381443252a1a7b7aea853a",
+    "url": "js/repl/fable-library/TimeSpan.js"
   },
   {
     "revision": "acbc80a54295d389aab6d2ad0074cac2",
     "url": "js/repl/fable-library/Types.js"
+  },
+  {
+    "revision": "4209452ecd21aabbcf928132949d3f0f",
+    "url": "js/repl/fable-library/Uri.js"
   },
   {
     "revision": "aaca1230e6e85e4177eeb8bc53a83021",
@@ -270,16 +270,20 @@ self.__precacheManifest = [
     "url": "js/repl/lib/Components/Message.js"
   },
   {
-    "revision": "7713350667f550f5761baf56c722746f",
-    "url": "js/repl/lib/Elements/Box.js"
-  },
-  {
     "revision": "28c82e93916400d72f154096e6b8764a",
     "url": "js/repl/lib/Components/Tabs.js"
   },
   {
     "revision": "03f9633421c01bebc22ad9e941d86594",
     "url": "js/repl/lib/Elements/Content.js"
+  },
+  {
+    "revision": "7713350667f550f5761baf56c722746f",
+    "url": "js/repl/lib/Elements/Box.js"
+  },
+  {
+    "revision": "e633e1585a9106c82c7092b6aa105c81",
+    "url": "js/repl/lib/Elements/Heading.js"
   },
   {
     "revision": "49f7faac941fb0172998b4dfed1e6f42",
@@ -298,20 +302,16 @@ self.__precacheManifest = [
     "url": "js/repl/lib/Elements/Notification.js"
   },
   {
-    "revision": "e633e1585a9106c82c7092b6aa105c81",
-    "url": "js/repl/lib/Elements/Heading.js"
-  },
-  {
     "revision": "28cfadcc22190eadc37f8a9a9ce20173",
     "url": "js/repl/lib/Elements/Progress.js"
   },
   {
-    "revision": "bb5840df9ddd0cf9f8355534deddee34",
-    "url": "js/repl/lib/Elements/Table.js"
-  },
-  {
     "revision": "1c7faf1181506d67502e84ae15f6664c",
     "url": "js/repl/lib/Elements/Tag.js"
+  },
+  {
+    "revision": "bb5840df9ddd0cf9f8355534deddee34",
+    "url": "js/repl/lib/Elements/Table.js"
   },
   {
     "revision": "a078316574688a760b5883436aa55471",
@@ -326,12 +326,12 @@ self.__precacheManifest = [
     "url": "js/repl/lib/fable-library.2.2.0-beta-010/AsyncBuilder.js"
   },
   {
-    "revision": "b8c2beda80a3711cac83c23de8664ed5",
-    "url": "js/repl/lib/fable-library.2.2.0-beta-010/DateOffset.js"
-  },
-  {
     "revision": "e56db389d34602deb286dc97310945cb",
     "url": "js/repl/lib/fable-library.2.2.0-beta-010/Decimal.js"
+  },
+  {
+    "revision": "b8c2beda80a3711cac83c23de8664ed5",
+    "url": "js/repl/lib/fable-library.2.2.0-beta-010/DateOffset.js"
   },
   {
     "revision": "fa18d07c3bd9641b64a33b58cc273190",
@@ -366,12 +366,20 @@ self.__precacheManifest = [
     "url": "js/repl/lib/Form/Control.js"
   },
   {
+    "revision": "db014285fd7a36c67ca889022f6abe70",
+    "url": "js/repl/lib/Form/Label.js"
+  },
+  {
     "revision": "247a5eb9772f5a4fcabb7db9b3097ccb",
     "url": "js/repl/lib/Form/Help.js"
   },
   {
-    "revision": "db014285fd7a36c67ca889022f6abe70",
-    "url": "js/repl/lib/Form/Label.js"
+    "revision": "cf339d904c2232ac21cb063e6932af99",
+    "url": "js/repl/lib/Form/Select.js"
+  },
+  {
+    "revision": "e438113097716851610361feb2a460da",
+    "url": "js/repl/lib/Form/Radio.js"
   },
   {
     "revision": "11a3597ef4331096d41c1908dcfab6a5",
@@ -382,48 +390,40 @@ self.__precacheManifest = [
     "url": "js/repl/fable-library/Date.js"
   },
   {
-    "revision": "e438113097716851610361feb2a460da",
-    "url": "js/repl/lib/Form/Radio.js"
-  },
-  {
-    "revision": "cf339d904c2232ac21cb063e6932af99",
-    "url": "js/repl/lib/Form/Select.js"
-  },
-  {
     "revision": "6ba2aceeb7ba1c6a612dc3c545e7cfcc",
     "url": "js/repl/lib/Components/Modal.js"
-  },
-  {
-    "revision": "51ef9ce96bb081152cbd2e7a514851c7",
-    "url": "js/repl/lib/Components/Pagination.js"
   },
   {
     "revision": "6b1895fa62fa1f806d66bc641eaef926",
     "url": "js/repl/lib/Components/Panel.js"
   },
   {
-    "revision": "e42bd082a88864012a0338031fc6db6b",
-    "url": "js/repl/lib/fable-library.2.2.0-beta-010/BigInt.js"
+    "revision": "51ef9ce96bb081152cbd2e7a514851c7",
+    "url": "js/repl/lib/Components/Pagination.js"
   },
   {
     "revision": "6574441a6eeb89525ce06c5599507c99",
     "url": "js/repl/lib/fable-library.2.2.0-beta-010/Date.js"
   },
   {
-    "revision": "ce11453c21ae98658fdeb9034a0108ba",
-    "url": "js/repl/lib/fable-library.2.2.0-beta-010/String.js"
+    "revision": "e42bd082a88864012a0338031fc6db6b",
+    "url": "js/repl/lib/fable-library.2.2.0-beta-010/BigInt.js"
   },
   {
     "revision": "3af29e5c261d16e522fa279293b776fd",
     "url": "js/repl/lib/fable-library.2.2.0-beta-010/Util.js"
   },
   {
-    "revision": "6ce38669d730db107ce067d71e58d36d",
-    "url": "js/repl/lib/Form/File.js"
+    "revision": "ce11453c21ae98658fdeb9034a0108ba",
+    "url": "js/repl/lib/fable-library.2.2.0-beta-010/String.js"
   },
   {
     "revision": "bb871d035c1d9b8040cc192326ba963f",
     "url": "js/repl/lib/Form/Field.js"
+  },
+  {
+    "revision": "6ce38669d730db107ce067d71e58d36d",
+    "url": "js/repl/lib/Form/File.js"
   },
   {
     "revision": "18aa3ad569f579cb70d891c5d993d8df",
@@ -442,12 +442,12 @@ self.__precacheManifest = [
     "url": "js/repl/fable-library/String.js"
   },
   {
-    "revision": "a695b659eaa071f7602e9b4fad4f7a9a",
-    "url": "js/repl/lib/Components/Navbar.js"
-  },
-  {
     "revision": "6c34c15fcaa0f8e49d75b4a3a9fe69d2",
     "url": "js/repl/fable-library/Util.js"
+  },
+  {
+    "revision": "a695b659eaa071f7602e9b4fad4f7a9a",
+    "url": "js/repl/lib/Components/Navbar.js"
   },
   {
     "revision": "b6a93d17a3f32c9de4ded7cd0bea6779",
@@ -490,12 +490,16 @@ self.__precacheManifest = [
     "url": "js/repl/lib/fable-library.2.2.0-beta-010/Array.js"
   },
   {
+    "revision": "e4821eb3b8bbdd1c36572092da5c7a31",
+    "url": "js/repl/lib/fable-library.2.2.0-beta-010/Long.js"
+  },
+  {
     "revision": "e5bd415835eac05655a28e35ab38ba75",
     "url": "js/repl/lib/fable-library.2.2.0-beta-010/List.js"
   },
   {
-    "revision": "e4821eb3b8bbdd1c36572092da5c7a31",
-    "url": "js/repl/lib/fable-library.2.2.0-beta-010/Long.js"
+    "revision": "507c1b999ea48fddc3af86f478a648d4",
+    "url": "js/repl/lib/Layouts/Columns.js"
   },
   {
     "revision": "1b6714f9b3bdd6935a88f9f37a64bf93",
@@ -510,16 +514,12 @@ self.__precacheManifest = [
     "url": "js/repl/lib/Layouts/Level.js"
   },
   {
-    "revision": "33adaa2cd9faf3242c82bf5368ed0fdd",
-    "url": "js/repl/lib/Layouts/Hero.js"
-  },
-  {
     "revision": "4688cf08699fbfc9b9852e51a99af9dd",
     "url": "js/repl/lib/Layouts/Section.js"
   },
   {
-    "revision": "507c1b999ea48fddc3af86f478a648d4",
-    "url": "js/repl/lib/Layouts/Columns.js"
+    "revision": "33adaa2cd9faf3242c82bf5368ed0fdd",
+    "url": "js/repl/lib/Layouts/Hero.js"
   },
   {
     "revision": "ed19a5a5aa270e3b659972acebe9fda8",
@@ -528,10 +528,6 @@ self.__precacheManifest = [
   {
     "revision": "c4123fe2d391fb860147216114929071",
     "url": "js/repl/lib/src/cmd.js"
-  },
-  {
-    "revision": "e30a91bd03f8cbe04d7786a19499a85d",
-    "url": "js/repl/fable-library/Map.js"
   },
   {
     "revision": "f5ce52790c38eb0a8a6c57c642f36dd2",
@@ -546,12 +542,16 @@ self.__precacheManifest = [
     "url": "js/repl/lib/src/Promise.js"
   },
   {
-    "revision": "42f86122e75532f0356d3b4e381f3923",
-    "url": "js/repl/lib/src/PromiseImpl.js"
-  },
-  {
     "revision": "9433be5298177fe4761a27fb8b83a5c2",
     "url": "js/repl/lib/src/ring.js"
+  },
+  {
+    "revision": "e30a91bd03f8cbe04d7786a19499a85d",
+    "url": "js/repl/fable-library/Map.js"
+  },
+  {
+    "revision": "42f86122e75532f0356d3b4e381f3923",
+    "url": "js/repl/lib/src/PromiseImpl.js"
   },
   {
     "revision": "dc85a891f5f14a61b985da430c6684d8",
@@ -562,60 +562,64 @@ self.__precacheManifest = [
     "url": "libs/vs/basic-languages/apex/apex.js"
   },
   {
-    "revision": "4edff85fd6c64e02f374ab7ee5f8b602",
-    "url": "libs/vs/basic-languages/bat/bat.js"
-  },
-  {
     "revision": "90760425b1716d5a6bfc2fe688b65b9d",
     "url": "libs/vs/basic-languages/azcli/azcli.js"
+  },
+  {
+    "revision": "4edff85fd6c64e02f374ab7ee5f8b602",
+    "url": "libs/vs/basic-languages/bat/bat.js"
   },
   {
     "revision": "e8ac253b87716ca5827e231b0bf56df8",
     "url": "libs/vs/basic-languages/coffee/coffee.js"
   },
   {
-    "revision": "e170e435b67b7f9a45d69ce4bdfeaa05",
-    "url": "libs/vs/basic-languages/csharp/csharp.js"
-  },
-  {
     "revision": "af473f2532ab4787401a193aed972e25",
     "url": "libs/vs/basic-languages/cpp/cpp.js"
   },
   {
-    "revision": "3d896c0dfc1a9d7da060cd06dcbf0dff",
-    "url": "libs/vs/basic-languages/csp/csp.js"
-  },
-  {
-    "revision": "06f213c5b340af360951b8ab0d07a4f2",
-    "url": "libs/vs/basic-languages/dockerfile/dockerfile.js"
+    "revision": "e170e435b67b7f9a45d69ce4bdfeaa05",
+    "url": "libs/vs/basic-languages/csharp/csharp.js"
   },
   {
     "revision": "27d46863c5d7d05c9f487bba74e106a0",
     "url": "libs/vs/basic-languages/css/css.js"
   },
   {
+    "revision": "3d896c0dfc1a9d7da060cd06dcbf0dff",
+    "url": "libs/vs/basic-languages/csp/csp.js"
+  },
+  {
     "revision": "e76682ef8f4b2557e753aeac4ce6df1a",
     "url": "libs/vs/basic-languages/fsharp/fsharp.js"
   },
   {
-    "revision": "83a7b19bdc008a788551e4fe453ca0fa",
-    "url": "libs/vs/basic-languages/go/go.js"
+    "revision": "06f213c5b340af360951b8ab0d07a4f2",
+    "url": "libs/vs/basic-languages/dockerfile/dockerfile.js"
   },
   {
     "revision": "741948277b00c3dbdaf2c48c3b4b21c8",
     "url": "libs/vs/basic-languages/handlebars/handlebars.js"
   },
   {
+    "revision": "83a7b19bdc008a788551e4fe453ca0fa",
+    "url": "libs/vs/basic-languages/go/go.js"
+  },
+  {
     "revision": "eaa375ad991e2dd79a645cc02600d51c",
     "url": "libs/vs/basic-languages/html/html.js"
+  },
+  {
+    "revision": "2645b644f7e31880101cca552faf5e7b",
+    "url": "libs/vs/basic-languages/java/java.js"
   },
   {
     "revision": "21fe6ad0bf2ad621a3465f3b3121cc0a",
     "url": "libs/vs/basic-languages/ini/ini.js"
   },
   {
-    "revision": "2645b644f7e31880101cca552faf5e7b",
-    "url": "libs/vs/basic-languages/java/java.js"
+    "revision": "fb858c50475c0dedeb22cafbac0a153d",
+    "url": "js/repl/lib/fable-library.2.2.0-beta-010/Map.js"
   },
   {
     "revision": "8618cd52e61a015cb4fbdd890f4773a5",
@@ -626,10 +630,6 @@ self.__precacheManifest = [
     "url": "libs/vs/basic-languages/less/less.js"
   },
   {
-    "revision": "fb858c50475c0dedeb22cafbac0a153d",
-    "url": "js/repl/lib/fable-library.2.2.0-beta-010/Map.js"
-  },
-  {
     "revision": "59508c8afefbc43b359c085d36c696d0",
     "url": "libs/vs/basic-languages/lua/lua.js"
   },
@@ -638,12 +638,12 @@ self.__precacheManifest = [
     "url": "libs/vs/basic-languages/markdown/markdown.js"
   },
   {
-    "revision": "06184132d39bfa9a6741e001b493373e",
-    "url": "js/repl/lib/Fable.React/Fable.Helpers.React.js"
-  },
-  {
     "revision": "1ac0d1e51f549a643b2395f7aef440c1",
     "url": "libs/vs/basic-languages/msdax/msdax.js"
+  },
+  {
+    "revision": "06184132d39bfa9a6741e001b493373e",
+    "url": "js/repl/lib/Fable.React/Fable.Helpers.React.js"
   },
   {
     "revision": "25d5426b0915297db94b8d2b7c35437c",
@@ -666,20 +666,24 @@ self.__precacheManifest = [
     "url": "libs/vs/basic-languages/pug/pug.js"
   },
   {
+    "revision": "dfac870c87495c0f35ba304467696027",
+    "url": "libs/vs/basic-languages/python/python.js"
+  },
+  {
     "revision": "ad1fc07d62e485c8a2af07fc9f4d45df",
     "url": "js/repl/lib/src/Http.js"
   },
   {
-    "revision": "dfac870c87495c0f35ba304467696027",
-    "url": "libs/vs/basic-languages/python/python.js"
+    "revision": "74323ab99226ff2cd52cb7bee6dfca88",
+    "url": "js/repl/fable-library/Set.js"
   },
   {
     "revision": "ca52422aebcceff91877417180fcf8df",
     "url": "js/repl/lib/Thoth.Json/Encode.js"
   },
   {
-    "revision": "74323ab99226ff2cd52cb7bee6dfca88",
-    "url": "js/repl/fable-library/Set.js"
+    "revision": "3280ee19a752f6d59079f279d3655fed",
+    "url": "libs/vs/basic-languages/r/r.js"
   },
   {
     "revision": "bd3c1b06bd08d7a491a6e31e4e0ecec9",
@@ -688,10 +692,6 @@ self.__precacheManifest = [
   {
     "revision": "ef752361755a318f70b5a3ae9cb2ed3f",
     "url": "libs/react.production.min.js"
-  },
-  {
-    "revision": "3280ee19a752f6d59079f279d3655fed",
-    "url": "libs/vs/basic-languages/r/r.js"
   },
   {
     "revision": "2ecf3be124889402c08b4419e7d6db04",
@@ -714,16 +714,16 @@ self.__precacheManifest = [
     "url": "libs/vs/basic-languages/mysql/mysql.js"
   },
   {
+    "revision": "ead1f6c7a8bef73c6743a728d8e1ae13",
+    "url": "libs/vs/basic-languages/perl/perl.js"
+  },
+  {
     "revision": "d89f8e23e929864846ab63beae060e70",
     "url": "libs/vs/basic-languages/sb/sb.js"
   },
   {
     "revision": "56fa7723a00bdaeb74e0edc241fa9016",
     "url": "libs/vs/basic-languages/scheme/scheme.js"
-  },
-  {
-    "revision": "ead1f6c7a8bef73c6743a728d8e1ae13",
-    "url": "libs/vs/basic-languages/perl/perl.js"
   },
   {
     "revision": "24ceaa22c53dcf42be62beeb93a6b7e5",
@@ -742,16 +742,16 @@ self.__precacheManifest = [
     "url": "libs/vs/basic-languages/php/php.js"
   },
   {
-    "revision": "ce940bdd17ddab29ed4d630523a48aa8",
-    "url": "libs/vs/basic-languages/scss/scss.js"
+    "revision": "2c021e714b0737f3d5d9936ee75ccbed",
+    "url": "libs/vs/basic-languages/postiats/postiats.js"
   },
   {
     "revision": "4ed77e76271ad4b2fd8e587e0a3892d9",
     "url": "libs/vs/basic-languages/shell/shell.js"
   },
   {
-    "revision": "2c021e714b0737f3d5d9936ee75ccbed",
-    "url": "libs/vs/basic-languages/postiats/postiats.js"
+    "revision": "ce940bdd17ddab29ed4d630523a48aa8",
+    "url": "libs/vs/basic-languages/scss/scss.js"
   },
   {
     "revision": "140d797b792543dc584913bb9dfe2318",
@@ -760,14 +760,6 @@ self.__precacheManifest = [
   {
     "revision": "f915a6c694e283873dd2e1b803dcfb56",
     "url": "libs/vs/basic-languages/st/st.js"
-  },
-  {
-    "revision": "b92c2339338153f248226b4fbdd625f8",
-    "url": "libs/vs/basic-languages/razor/razor.js"
-  },
-  {
-    "revision": "90afcd78e12772f3abac47ce83714ea4",
-    "url": "libs/vs/basic-languages/redshift/redshift.js"
   },
   {
     "revision": "bbbaa3026dfc4b11171a764cf70dd1da",
@@ -782,6 +774,14 @@ self.__precacheManifest = [
     "url": "libs/vs/basic-languages/vb/vb.js"
   },
   {
+    "revision": "b92c2339338153f248226b4fbdd625f8",
+    "url": "libs/vs/basic-languages/razor/razor.js"
+  },
+  {
+    "revision": "90afcd78e12772f3abac47ce83714ea4",
+    "url": "libs/vs/basic-languages/redshift/redshift.js"
+  },
+  {
     "revision": "732551a7b9acbde0b0cbedb6649f85eb",
     "url": "libs/vs/basic-languages/xml/xml.js"
   },
@@ -790,12 +790,12 @@ self.__precacheManifest = [
     "url": "libs/vs/basic-languages/ruby/ruby.js"
   },
   {
-    "revision": "0fd4a6430117784fb44e2c59d4ad9b45",
-    "url": "libs/vs/basic-languages/yaml/yaml.js"
-  },
-  {
     "revision": "a024047752a1edf524ebbf17393158b8",
     "url": "libs/vs/basic-languages/pgsql/pgsql.js"
+  },
+  {
+    "revision": "0fd4a6430117784fb44e2c59d4ad9b45",
+    "url": "libs/vs/basic-languages/yaml/yaml.js"
   },
   {
     "revision": "a80cb9755dba76010fd552c8d3367797",
@@ -830,12 +830,12 @@ self.__precacheManifest = [
     "url": "metadata/System.IO.dll.txt"
   },
   {
-    "revision": "7d831c8ce892bb9a03e7956d40964234",
-    "url": "metadata/System.Reflection.dll.txt"
-  },
-  {
     "revision": "26c978affa61291a99e33804d5b0174c",
     "url": "metadata/System.Numerics.dll.txt"
+  },
+  {
+    "revision": "7d831c8ce892bb9a03e7956d40964234",
+    "url": "metadata/System.Reflection.dll.txt"
   },
   {
     "revision": "77de2110ac41e1a62678a719898acdb3",
@@ -858,10 +858,6 @@ self.__precacheManifest = [
     "url": "metadata/System.Text.Encoding.Extensions.dll.txt"
   },
   {
-    "revision": "a3f8339f361d9f2683c37abb09f8c75e",
-    "url": "libs/vs/language/typescript/tsMode.js"
-  },
-  {
     "revision": "0fcbcf1428cd867b87739e5cab833b7a",
     "url": "repl-lib-map.json"
   },
@@ -874,16 +870,24 @@ self.__precacheManifest = [
     "url": "metadata/System.Threading.Tasks.dll.txt"
   },
   {
-    "revision": "7410a1f06c411eecabda92e6c211bfbe",
-    "url": "metadata/System.ValueTuple.dll.txt"
+    "revision": "3fa768bcb2fa32b423f6f2c98d825929",
+    "url": "samples/obj/Samples.fsproj.paket.props"
   },
   {
     "revision": "125303b091796fca1a47c9875c001b62",
     "url": "samples/obj/Samples.fsproj.NuGet.Config"
   },
   {
-    "revision": "3fa768bcb2fa32b423f6f2c98d825929",
-    "url": "samples/obj/Samples.fsproj.paket.props"
+    "revision": "7410a1f06c411eecabda92e6c211bfbe",
+    "url": "metadata/System.ValueTuple.dll.txt"
+  },
+  {
+    "revision": "a3f8339f361d9f2683c37abb09f8c75e",
+    "url": "libs/vs/language/typescript/tsMode.js"
+  },
+  {
+    "revision": "31146c3ddd13aef109772b05db1bda3e",
+    "url": "samples/obj/Samples.fsproj.paket.references.cached"
   },
   {
     "revision": "f453b180df6fd6eebe6f0eedf362a094",
@@ -896,10 +900,6 @@ self.__precacheManifest = [
   {
     "revision": "899a72e8d53eb99a846a742f4dc36095",
     "url": "metadata/System.Console.dll.txt"
-  },
-  {
-    "revision": "31146c3ddd13aef109772b05db1bda3e",
-    "url": "samples/obj/Samples.fsproj.paket.references.cached"
   },
   {
     "revision": "5b17d77dc8a708401edd3fd409a8e4e0",
@@ -926,16 +926,16 @@ self.__precacheManifest = [
     "url": "samples/samples.json"
   },
   {
+    "revision": "4259aff0b5e29517091aafe480b8ba9b",
+    "url": "metadata/System.Reflection.Primitives.dll.txt"
+  },
+  {
     "revision": "5cb6c9e59a487c4a49bb337fcc77ae9c",
     "url": "samples/tour/classes.fs"
   },
   {
     "revision": "e8d199497064a7696423c1910f8192b8",
     "url": "samples/tour/collections.fs"
-  },
-  {
-    "revision": "4259aff0b5e29517091aafe480b8ba9b",
-    "url": "metadata/System.Reflection.Primitives.dll.txt"
   },
   {
     "revision": "3acc14af30c81f0065b4327f73d59e1f",
@@ -946,16 +946,12 @@ self.__precacheManifest = [
     "url": "samples/tour/records.fs"
   },
   {
-    "revision": "aff7b609275d23ed184aa8bbe2c7efa1",
-    "url": "samples/tour/units.fs"
-  },
-  {
     "revision": "a066376bead1dec21e04eaae814859fb",
     "url": "metadata/System.Runtime.Numerics.dll.txt"
   },
   {
-    "revision": "2b6ac4494944b92db7dcfa0ce3a605ed",
-    "url": "libs/vs/editor/editor.main.nls.de.js"
+    "revision": "aff7b609275d23ed184aa8bbe2c7efa1",
+    "url": "samples/tour/units.fs"
   },
   {
     "revision": "a8422a20e7918f3a6547f85a09e590a7",
@@ -966,40 +962,44 @@ self.__precacheManifest = [
     "url": "js/repl/lib/Thoth.Json/Decode.js"
   },
   {
-    "revision": "03b7f67113466d1caee37424d63c6604",
-    "url": "samples/tour/unions.fs"
+    "revision": "2b6ac4494944b92db7dcfa0ce3a605ed",
+    "url": "libs/vs/editor/editor.main.nls.de.js"
   },
   {
-    "revision": "65a437a349f6e024e14a84bdae3b94e5",
-    "url": "libs/vs/editor/editor.main.nls.es.js"
+    "revision": "03b7f67113466d1caee37424d63c6604",
+    "url": "samples/tour/unions.fs"
   },
   {
     "revision": "a14fcc89b2e121908c5cc7ec97787dfe",
     "url": "libs/vs/language/css/cssMode.js"
   },
   {
-    "revision": "a8fb0f322b584b488bd572adf086cdcd",
-    "url": "libs/vs/editor/editor.main.nls.fr.js"
+    "revision": "65a437a349f6e024e14a84bdae3b94e5",
+    "url": "libs/vs/editor/editor.main.nls.es.js"
   },
   {
-    "revision": "6d0cbdd6e06c3e3c3eea8c05cf7918fa",
-    "url": "libs/vs/editor/editor.main.nls.it.js"
+    "revision": "a8fb0f322b584b488bd572adf086cdcd",
+    "url": "libs/vs/editor/editor.main.nls.fr.js"
   },
   {
     "revision": "f92beaae20e1c9fec74433e6a105bdc8",
     "url": "metadata/System.Text.RegularExpressions.dll.txt"
   },
   {
-    "revision": "cf05f5559129d3145d705a8df6c6fb48",
-    "url": "libs/vs/loader.js"
-  },
-  {
     "revision": "397deb6d0e237fca1540e8ee87021813",
     "url": "metadata/System.Threading.dll.txt"
   },
   {
+    "revision": "cf05f5559129d3145d705a8df6c6fb48",
+    "url": "libs/vs/loader.js"
+  },
+  {
     "revision": "7c5522016f018c3226287c88363be05b",
     "url": "libs/vs/editor/editor.main.nls.ja.js"
+  },
+  {
+    "revision": "6d0cbdd6e06c3e3c3eea8c05cf7918fa",
+    "url": "libs/vs/editor/editor.main.nls.it.js"
   },
   {
     "revision": "fefec53579b720d668082ade106d4322",
@@ -1010,12 +1010,12 @@ self.__precacheManifest = [
     "url": "libs/vs/editor/editor.main.nls.js"
   },
   {
-    "revision": "a6a8191b3898b9a0ca4ee9d165c32d2e",
-    "url": "libs/vs/editor/editor.main.nls.ru.js"
-  },
-  {
     "revision": "09e5a4cc32305727ff958438e4c3fad1",
     "url": "libs/vs/editor/editor.main.nls.ko.js"
+  },
+  {
+    "revision": "a6a8191b3898b9a0ca4ee9d165c32d2e",
+    "url": "libs/vs/editor/editor.main.nls.ru.js"
   },
   {
     "revision": "2062c186031ecda7b3c52a7de847ddc7",
@@ -1078,16 +1078,16 @@ self.__precacheManifest = [
     "url": "libs/vs/language/json/jsonWorker.js"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "libs/fonts/fontawesome-webfont.ttf"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "libs/fonts/fontawesome-webfont.eot"
   },
   {
     "revision": "a81241ddc40c548ef8bc385c0950a55b",
     "url": "libs/css/bulma.min.css"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "libs/fonts/fontawesome-webfont.eot"
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "libs/fonts/fontawesome-webfont.ttf"
   },
   {
     "revision": "64eaf1a4e89d2932222a028d3cdb9a3d",
@@ -1143,10 +1143,10 @@ self.__precacheManifest = [
   },
   {
     "revision": "ebd06f1d6aca5db36c5a1a3ed7b667c7",
-    "url": "metadata-extra/Fable.Repl.Lib.dll"
+    "url": "metadata/Fable.Repl.Lib.dll.txt"
   },
   {
     "revision": "ebd06f1d6aca5db36c5a1a3ed7b667c7",
-    "url": "metadata/Fable.Repl.Lib.dll.txt"
+    "url": "metadata-extra/Fable.Repl.Lib.dll"
   }
 ];
